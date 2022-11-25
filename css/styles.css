@@ -11306,6 +11306,10 @@ body {
   padding: 8rem 0;
 }
 
+.page-section-2 {
+  padding: 8rem 0  4rem 0;
+}
+
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75) !important;
 }
@@ -11323,7 +11327,7 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #f4623a;
+  background-color: var(--bs-blue);
   opacity: 1;
 }
 
